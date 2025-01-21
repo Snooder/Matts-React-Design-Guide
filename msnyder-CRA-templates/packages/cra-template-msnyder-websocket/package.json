@@ -1,10 +1,19 @@
 {
   "name": "cra-template-msnyder-websocket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "msnyder websocket template for Vite with TypeScript",
-  "keywords": ["vite", "template", "react", "typescript", "websocket"],
+  "keywords": [
+    "vite",
+    "template",
+    "react",
+    "typescript",
+    "websocket"
+  ],
   "main": "template.json",
-  "files": ["template", "template.json"],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/snooder/msnyder-CRA-templates.git"
