@@ -1,0 +1,21 @@
+{
+  "package": {
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.10.0",
+      "react-icons": "^4.3.1",
+      "tailwindcss": "^3.0.0",
+      "typescript": "^4.8.4",
+      "@types/react": "^18.0.20",
+      "@types/react-dom": "^18.0.6",
+      "postcss": "^8.4.14",
+      "autoprefixer": "^10.4.7",
+      "firebase": "^9.6.0", "jsonwebtoken": "^9.0.0"
+    },
+    "scripts": {
+      "setup-tailwind": "npx tailwindcss init -p"
+    }
+  },
+  "message": "Welcome to the msnyder-auth template! 🚀"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-msnyder-dashboard",
+  "version": "1.0.0",
+  "description": "msnyder dashboard template for Vite with TypeScript",
+  "keywords": ["vite", "template", "react", "typescript", "dashboard"],
+  "main": "template.json",
+  "files": ["template", "template.json"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snooder/msnyder-CRA-templates.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
