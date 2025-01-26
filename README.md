@@ -1,4 +1,4 @@
-# **msnyder-CRA-templates**  
+# **Matt's React Design Guide, with create-react-app templates**  
 🚀 **Pre-configured React templates for fast, scalable development.**  
 
 Top UI Library Choices
