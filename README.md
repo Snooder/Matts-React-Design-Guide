@@ -34,6 +34,10 @@ npx create-react-app my-dashboard-app --template msnyder-dashboard
 - 📱 **Responsive & mobile-friendly** – TailwindCSS with viewport scaling.  
 - 🔥 **Modern stack** – React, TypeScript, GraphQL, WebSockets, and more.  
 
+Visually Appealing Designs:
+<img width="1415" alt="image" src="https://github.com/user-attachments/assets/6149cdbe-dcb5-4e49-be7a-32d9eef13b92" />
+
+
 ## **🤝 Contributing**  
 Fork the repo, make changes, and submit a pull request:  
 ```sh
