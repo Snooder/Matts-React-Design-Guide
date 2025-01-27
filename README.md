@@ -4,7 +4,8 @@
 Top UI Library Choices
 1. shadcn ([https://ui.shadcn.com/blocks](https://ui.shadcn.com/blocks))
 2. Mantine ([https://mantine.dev/](https://mantine.dev/))
-3. MUI (Material UI) ([https://mui.com/](https://mui.com/))
+3. 21st.dev - ([https://21st.dev/](https://21st.dev/))
+4. MUI (Material UI) ([https://mui.com/](https://mui.com/))
 
 This collection provides **optimized templates** with **TypeScript, Vite, TailwindCSS, and React Router**. Each template is designed for **performance, mobile responsiveness, and best practices**.
 
